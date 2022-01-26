@@ -1,0 +1,16 @@
+name: forecasting
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.8
+  - pip
+  - numpy
+  - pandas
+  - pystan
+  - prophet
+  - ipython
+  - ipykernel
+  - plotly
+  - nbformat
+prefix: C:\Users\James\Miniconda3\envs\forecasting
