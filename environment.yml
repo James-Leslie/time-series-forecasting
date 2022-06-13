@@ -1,5 +1,6 @@
 name: tsf
 channels:
+  - pytorch
   - conda-forge
   - defaults
 dependencies:
@@ -10,3 +11,7 @@ dependencies:
   - statsmodels
   - pmdarima
   - scikit-learn
+  - pytorch
+  - torchvision
+  - torchaudio
+  - cudatoolkit=11.3
