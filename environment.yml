@@ -12,3 +12,5 @@ dependencies:
   - pmdarima
   - scikit-learn
   - xgboost
+  - gcc
+  - prophet
